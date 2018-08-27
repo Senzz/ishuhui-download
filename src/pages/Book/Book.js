@@ -6,7 +6,7 @@ import {
 import config from '@/config'
 import styles from './Book.less'
 import { Link } from 'dva/router'
-import { getBookList, getBookMenuInfo, download } from '@/services/api'
+import { getBookList, getBookMenuInfo } from '@/services/api'
 
 const handleMenu = (posts) => {
   const keys = Object.keys(posts);
