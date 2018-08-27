@@ -3,7 +3,9 @@
 
 node项目需要自行下载chromium。在根目录创建chromium文件夹，在此文件中安装chromium （chrome也行，没试过）
 
-本项目自供学习
+本项目自供学习, 
+node使用了request, puppeteer
+client使用dva, react
 
 ## License
 
